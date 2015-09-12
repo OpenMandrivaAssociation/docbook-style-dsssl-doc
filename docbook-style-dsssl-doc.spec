@@ -1,7 +1,7 @@
 Summary:	Documentation for DocBook dssl stylesheets
 Name:		docbook-style-dsssl-doc
 Version:	1.79
-Release:	20
+Release:	21
 Group:		Books/Computer books
 License:	Artistic like
 Url:		http://sourceforge.net/projects/docbook/
