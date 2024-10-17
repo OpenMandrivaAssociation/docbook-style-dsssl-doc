@@ -4,7 +4,7 @@ Version:	1.79
 Release:	24
 Group:		Books/Computer books
 License:	Artistic like
-Url:		http://sourceforge.net/projects/docbook/
+Url:		https://sourceforge.net/projects/docbook/
 Source0:	http://prdownloads.sourceforge.net/docbook/docbook-dsssl-doc-%{version}.tar.bz2
 BuildArch:	noarch
 
